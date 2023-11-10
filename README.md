@@ -16,13 +16,15 @@
 > [!WARNING]
 > Symply is not an official software of Mojang. It is a product created by the community for the community, providing a customized experience for Minecraft Bedrock servers. All trademarks and registered trademarks are the property of their respective owners.
 
-## Why Symply?
+## 🤔 Why Symply?
                  
 - ### 🪛 Enhanced Performance
 Symply builds upon the solid foundation of PocketMine-MP, optimizing performance and ensuring a smoother gameplay experience for your Minecraft Bedrock community.
 
 - ### 🧹 Expanded Customization
 Experience unparalleled customization with a range of tools and features, allowing you to tailor your server according to your vision. From plugins to server settings, Symply provides the flexibility you need.
+
+---
 
 ## 🍪 Features
 
@@ -33,11 +35,32 @@ Experience unparalleled customization with a range of tools and features, allowi
 
 ### 👀 Next Features
 - **Add all missing blocks in Pocketmine-MP** > (without their active functionality / to be done in next update)
+- **Support custom blocks / items / entity**
+- **Original Entity AI**
+
+---
+
+## 🎮 How to use (Coming soon)
+### 1. Run from [Symply-CLI](https://github.com/SymplyX/Symply-CLI)
+
+---
                  
 ## 🌍 Community and Support
 
 - Join our [Discord](https://discord.gg/Jxjsra7nuu) community for support, updates, and discussions.
 - Report bugs or suggest features by opening an issue on our GitHub repository.
+
+## 🧐 Contributing
+
+Please read the [CONTRIBUTING](https://github.com/PowerNukkitX/PowerNukkitX/blob/master/CONTRIBUTING.md) guide before submitting any issue.  Issues with insufficient information or in the wrong format will be closed and will not be reviewed.
+
+## 🔗 Links
+**Coming soon:**
+- Website
+- SymHanguar (like [poggit](https://poggit.pmmp.io/plugins) but in nextjs because it's better)
+- Discord server
+
+---
 ## 📜 License
 
 Symply is licensed under GNU. See the LICENSE file for more details.
