@@ -38,7 +38,6 @@ Experience unparalleled customization with a range of tools and features, allowi
 
 - Join our [Discord](https://discord.gg/Jxjsra7nuu) community for support, updates, and discussions.
 - Report bugs or suggest features by opening an issue on our GitHub repository.
-          
 ## 📜 License
 
 Symply is licensed under GNU. See the LICENSE file for more details.
